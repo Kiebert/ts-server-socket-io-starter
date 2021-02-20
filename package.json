@@ -1,7 +1,7 @@
 {
   "name": "ts-server-socket-io-starter",
   "version": "1.0.0",
-  "description": "Node server for discattack",
+  "description": "Typescript socket.io server",
   "scripts": {
     "build": "webpack --mode production",
     "start": "nodemon --config nodemon.json src/server.ts"
